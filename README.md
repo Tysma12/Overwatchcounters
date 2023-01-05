@@ -6,3 +6,42 @@ Lors du lancement de l'application, une première interface apparaîtra avec 3 b
 
 Pour mettre ceci en place, il faudra dans un premier temps associer à chaque personnage ses counters et, lors de la recherche, il faudra que le programme analyse les counters de chaque ennemi choisi et que l'occurrence apparaissant le plus soit proposée au joueur sur la dernière interface.
 
+Voici la liste des counters pour chaques personnages : 
+
+1.	Tracer - Counters: Roadhog, Winston, Zarya
+2.	Winston - Counters: McCree, Widowmaker, Tracer
+3.	Reaper - Counters: Tracer, Winston, Roadhog
+4.	Pharah - Counters: Widowmaker, Junkrat, Hanzo
+5.	Cassidy - Counters: Pharah, Widowmaker, Mei
+6.	Hanzo - Counters: Pharah, Widowmaker, Tracer
+7.	Widowmaker - Counters: Tracer, Winston, D.Va
+8.	D.Va - Counters: Roadhog, Zarya, Winston
+9.	Zarya - Counters: Roadhog, Reinhardt, Winston
+10.	Genji - Counters: Reinhardt, Winston, Roadhog
+11.	Roadhog - Counters: Tracer, Winston, Zarya
+12.	Reinhardt - Counters: Pharah, Ramattra Soldat 76
+13.	Torbjörn - Counters: Pharah, McCree, Widowmaker
+14.	Symmetra - Counters: Torbjörn, Reinhardt, Pharah
+15.	Bastion - Counters: Tracer, Genji, Winston
+16.	Mei - Counters: Roadhog, Soldat 76, Winston
+17.	Ana - Counters: Pharah, Widowmaker, Genji
+18.	Lucio - Counters: Symmetra, Bastion, Torbjörn
+19.	Moira - Counters: Tracer, Reaper, Widowmaker
+20.	Brigitte - Counters: Tracer, Reaper, Widowmaker
+21.	Doomfist - Counters: Winston, Reinhardt, Roadhog
+22.	Sombra - Counters: Tracer, Widowmaker, Reaper
+23.	Orisa - Counters: Roadhog, Winston, Zarya
+24.	Zenyatta - Counters: Tracer, Genji, Reaper
+25.	Mercy - Counters: Tracer, Genji, Reaper
+26.	Junkrat - Counters: Reinhardt, Winston, Roadhog
+27.	Echo - Counters: Reaper, McCree, Pharah
+28.	Baptiste - Counters: Tracer, Reaper, Widowmaker
+29.	Ashe - Counters: Pharah, Roadhog, Reinhardt
+30.	Moira - Counters: Tracer, Reaper, Widowmaker
+31.	Sigma - Counters: Roadhog, Winston, Reinhardt
+32.	Wrecking Ball - Counters: Roadhog, Zarya, Winston
+33.	Kiriko - Counters : Widowmaker, Winston, Sombra
+34.	Ramattra - Counters : Pharah, Orisa, Zenyatta
+35.	Sojourn - Counters : Lucio, Zarya, Winston
+36.	Junker Queen – Counters : Mei, Anna, Kiriko
+37.	Soldat 76 – Counters : Genji, Ramattra, Moira
