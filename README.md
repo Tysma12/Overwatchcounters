@@ -9,32 +9,32 @@ Pour mettre ceci en place, il faudra dans un premier temps associer à chaque pe
 Voici la liste des counters pour chaques personnages : 
 
 1.	Tracer - Counters: Roadhog, Winston, Zarya
-2.	Winston - Counters: McCree, Widowmaker, Tracer
+2.	Winston - Counters: Cassidy, Widowmaker, Ramattra
 3.	Reaper - Counters: Tracer, Winston, Roadhog
 4.	Pharah - Counters: Widowmaker, Junkrat, Hanzo
 5.	Cassidy - Counters: Pharah, Widowmaker, Mei
-6.	Hanzo - Counters: Pharah, Widowmaker, Tracer
+6.	Hanzo - Counters: Pharah, Sojourn, Tracer
 7.	Widowmaker - Counters: Tracer, Winston, D.Va
 8.	D.Va - Counters: Roadhog, Zarya, Winston
 9.	Zarya - Counters: Roadhog, Reinhardt, Winston
-10.	Genji - Counters: Reinhardt, Winston, Roadhog
+10.	Genji - Counters: Reinhardt, Winston, Kiriko
 11.	Roadhog - Counters: Tracer, Winston, Zarya
 12.	Reinhardt - Counters: Pharah, Ramattra Soldat 76
-13.	Torbjörn - Counters: Pharah, McCree, Widowmaker
+13.	Torbjörn - Counters: Pharah, Cassidy, Widowmaker
 14.	Symmetra - Counters: Torbjörn, Reinhardt, Pharah
 15.	Bastion - Counters: Tracer, Genji, Winston
 16.	Mei - Counters: Roadhog, Soldat 76, Winston
-17.	Ana - Counters: Pharah, Widowmaker, Genji
+17.	Ana - Counters: Kiriko, Widowmaker, Genji
 18.	Lucio - Counters: Symmetra, Bastion, Torbjörn
 19.	Moira - Counters: Tracer, Reaper, Widowmaker
 20.	Brigitte - Counters: Tracer, Reaper, Widowmaker
-21.	Doomfist - Counters: Winston, Reinhardt, Roadhog
-22.	Sombra - Counters: Tracer, Widowmaker, Reaper
-23.	Orisa - Counters: Roadhog, Winston, Zarya
-24.	Zenyatta - Counters: Tracer, Genji, Reaper
+21.	Doomfist - Counters: Sojourn, Reinhardt, Roadhog
+22.	Sombra - Counters: Tracer, Junker Queen, Reaper
+23.	Orisa - Counters: Roadhog, Ramattra, Zarya
+24.	Zenyatta - Counters: Tracer, Genji, Kiriko
 25.	Mercy - Counters: Tracer, Genji, Reaper
-26.	Junkrat - Counters: Reinhardt, Winston, Roadhog
-27.	Echo - Counters: Reaper, McCree, Pharah
+26.	Junkrat - Counters: Sojourn, Winston, Roadhog
+27.	Echo - Counters: Reaper, Cassidy, Pharah
 28.	Baptiste - Counters: Tracer, Reaper, Widowmaker
 29.	Ashe - Counters: Pharah, Roadhog, Reinhardt
 30.	Moira - Counters: Tracer, Reaper, Widowmaker
