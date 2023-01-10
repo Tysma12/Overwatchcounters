@@ -45,3 +45,5 @@ Voici la liste des counters pour chaques personnages :
 35.	Sojourn - Counters : Lucio, Zarya, Winston
 36.	Junker Queen – Counters : Mei, Anna, Kiriko
 37.	Soldat 76 – Counters : Genji, Ramattra, Moira
+
+Dû à la deadline qui nous est imposée, nous allons devoir simplifier l'application en réduisant le nombre de personnages à 6 pour la présentation de mercredi. L'idée de pouvoir mettre l'entièreté de l'équipe adverse sera implémentée plus tard. Pour l'instant, nous nous limitons à afficher les counters pour chaque personnage séparément. 
