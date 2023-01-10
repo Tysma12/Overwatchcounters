@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <ImageButton
+        android:id="@+id/dvaButton"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="152dp"
+        android:layout_marginTop="84dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="fitXY"
+        android:src="@mipmap/dva_foreground"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/genjiButton"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="88dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="fitXY"
+        android:src="@mipmap/genji_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/zenButton"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="84dp"
+        android:backgroundTint="#FFFFFF"
+        android:contentDescription="picturezen"
+        android:scaleType="fitXY"
+        android:src="@mipmap/zen"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/anaButton"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="224dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ana_round"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/soldatimage"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="224dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="fitXY"
+        android:src="@mipmap/soldat_round"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/roadhogimage"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="152dp"
+        android:layout_marginTop="224dp"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="fitXY"
+        android:src="@mipmap/roadhog_round"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
