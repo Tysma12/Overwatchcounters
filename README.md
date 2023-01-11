@@ -53,3 +53,5 @@ Voici la liste des counters pour chaques personnages :
 37.	Soldat 76 – Counters : Genji, Ramattra, Moira
 
 Dû à la deadline qui nous est imposée, nous allons devoir simplifier l'application en réduisant le nombre de personnages à 6 pour la présentation de mercredi. L'idée de pouvoir mettre l'entièreté de l'équipe adverse sera implémentée plus tard. Pour l'instant, nous nous limitons à afficher les counters pour chaque personnage séparément. 
+
+Pour lancer, cliquez sur le logo de l'application, sur la première interface cliquez sur le personnage auquel vous souhaitez connaître les counters. Pour revenir en arrière, cliquez sur la flèche en haut à gauche. 
