@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.example.overwatchcounters.CharacterDatabase.Companion.getDatabase
 import com.example.overwatchcounters.databinding.FragmentSecondBinding
 
 /**
@@ -31,6 +32,7 @@ class SecondFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        //getDatabase(context: Context) CharacterDatabase
 
         binding.buttonSecond.setOnClickListener {
             findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)

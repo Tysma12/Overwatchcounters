@@ -1,6 +1,7 @@
 package com.example.overwatchcounters
 
 import android.os.Bundle
+import android.util.Log
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
@@ -9,6 +10,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
+import com.example.overwatchcounters.CharacterDatabase.Companion.getDatabase
 import com.example.overwatchcounters.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -19,7 +21,8 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
+        //getDatabase()
+        Log.d("DB", "Database: " + getDatabase(this).toString())
         //ChararcterDao.insertCharacter("Ana", "Support", [2, 5, 3], Uri.parse("app\src\debug\res\mipmap-xxxhdpi\ana.png"))
         //findViewById()
         binding = ActivityMainBinding.inflate(layoutInflater)
