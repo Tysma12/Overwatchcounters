@@ -6,6 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".FirstFragment">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="Dva"
+        app:layout_constraintBottom_toTopOf="@+id/dvaButton"
+        app:layout_constraintEnd_toEndOf="@+id/dvaButton"
+        app:layout_constraintStart_toStartOf="@+id/dvaButton" />
+
     <ImageButton
         android:id="@+id/dvaButton"
         android:layout_width="106dp"
@@ -79,5 +89,58 @@
         android:src="@mipmap/roadhog_round"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="Zenyatta"
+        app:layout_constraintBottom_toTopOf="@+id/zenButton"
+        app:layout_constraintEnd_toEndOf="@+id/zenButton"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="@+id/zenButton" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Genji"
+        app:layout_constraintBottom_toTopOf="@+id/genjiButton"
+        app:layout_constraintEnd_toEndOf="@+id/genjiButton"
+        app:layout_constraintStart_toStartOf="@+id/genjiButton" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Ana"
+        app:layout_constraintBottom_toTopOf="@+id/anaButton"
+        app:layout_constraintEnd_toEndOf="@+id/anaButton"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="@+id/anaButton" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Roadhog"
+        app:layout_constraintBottom_toTopOf="@+id/roadhogimage"
+        app:layout_constraintEnd_toEndOf="@+id/roadhogimage"
+        app:layout_constraintStart_toStartOf="@+id/roadhogimage" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Soldat:76"
+        app:layout_constraintBottom_toTopOf="@+id/soldatimage"
+        app:layout_constraintEnd_toEndOf="@+id/soldatimage"
+        app:layout_constraintHorizontal_bias="0.574"
+        app:layout_constraintStart_toStartOf="@+id/soldatimage" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
