@@ -16,9 +16,12 @@ class MainActivity : AppCompatActivity() {
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        //ChararcterDao.insertCharacter("Ana", "Support", [2, 5, 3], Uri.parse("app\src\debug\res\mipmap-xxxhdpi\ana.png"))
+        //findViewById()
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
